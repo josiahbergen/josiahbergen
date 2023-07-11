@@ -1,4 +1,4 @@
-<div style="font-family: mono">👋 hello!
+<div style="font-family: mono; font-size: 8">👋 hello!
 
 - 16 y/o programmer from vancouver
 - i enjoy making games and stupid little websites
