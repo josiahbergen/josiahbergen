@@ -2,7 +2,7 @@
 
 - 16 y/o programmer from vancouver
 - i enjoy making games and stupid little websites
-- also have dabbled in java
+- also have dabbled in java (slightly)
 
 there probably isn't much on my profile... but you can have a look around if you want.
 
