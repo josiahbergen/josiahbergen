@@ -1,10 +1,11 @@
 👋 hello!
 
 - 17 y/o programmer from vancouver
-- i enjoy making games and stupid little websites
-- also have dabbled in c# and python (slightly)
+- i enjoy making thing people might like!
+- my most competent languages are js and python
+- i also use gamemaker, am currently working on a multiplayer rpg of sorts
 
-there probably isn't much on my profile... but you can have a look around if you want.
+there probably isn't much of interest on my profile... but you can have a look around if you want.
 
 </div>
 
