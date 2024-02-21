@@ -1,11 +1,11 @@
-👋 Hello!
+Hello!
 
 - 17 y/o programmer from Vancouver
 - I enjoy making things people might like!
 - My most competent languages are javascript and python
 - I also use GameMaker Studio 2, I'm currently working on a multiplayer rpg of sorts
 
-There probably isn't much of interest on my profile... but you can have a look around if you want.
+_There probably isn't much of interest on my profile... but you can have a look around if you want._
 
 </div>
 
