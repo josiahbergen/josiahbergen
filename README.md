@@ -1,15 +1,29 @@
-# Hello! 👋 #
+```assembly
+section .data
+  text db  "https://jojobinx.com/a/", 0xa
 
-A little bit about myself...
+section .text
+  global _start
 
-- I'm a 17 y/o programmer from Vancouver.
-- I enjoy making things people might like!
-- My most competent languages are vanilla Javascript (yikes) and Python.
-- I also use GameMaker Studio 2, I'm currently working on a multiplayer RPG with a server written in good ol' C.
+_start:
+  mov rax, 1
+  mov rdi, 1 
+  mov rsi, text
+  mov rdx, 24
+  syscall
 
-_There probably isn't much of interest on my profile... but you can have a look around if you want._
+  mov rax, 60
+  mov rdi, 0
+  syscall
+```
 
-Enjoy your stay!
+```bash 
+$ nasm -f elf64 -o hello.o hello.asm
+$ ld hello.o -s -o hello
+$ ./hello
+https://jojobinx.com/a/
+$ ▂
+```
 
 <!---
 Jojobinx17/Jojobinx17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
