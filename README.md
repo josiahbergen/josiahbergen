@@ -6,7 +6,8 @@ https://jojobinx.com/a/
 $ ▂
 ```
 
-[jojobinx.com](https://jojobinx.com) | [wiredmountain.ca](https://wiredmountain.ca)
+[jojobinx.com](https://jojobinx.com) | [wiredmountain.ca](https://www.wiredmountain.ca/)
+
 
 
 <!---
