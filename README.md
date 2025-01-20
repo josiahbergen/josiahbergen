@@ -1,12 +1,6 @@
-```bash 
-$ nasm -f elf64 -o hello.o hello.asm
-$ ld hello.o -s -o hello
-$ ./hello
-https://jojobinx.com/a/
-$ ▂
-```
+1st year Computing Science student and full-stack developer @ [wiredmountain.ca](https://www.wiredmountain.ca/)
 
-[jojobinx.com](https://jojobinx.com) | [wiredmountain.ca](https://www.wiredmountain.ca/)
+Prsonal site: [jojobinx.com](https://jojobinx.com)
 
 
 
