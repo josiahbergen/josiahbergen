@@ -1,6 +1,6 @@
 1st year Computing Science student and full-stack developer @ [wiredmountain.ca](https://www.wiredmountain.ca/)
 
-Prsonal site: [jojobinx.com](https://jojobinx.com)
+Personal site & portfolio: [jojobinx.com](https://jojobinx.com)
 
 
 
