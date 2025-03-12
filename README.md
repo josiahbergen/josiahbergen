@@ -1,4 +1,6 @@
-1st year Computing Science student and full-stack developer: [wiredmountain.ca](https://www.wiredmountain.ca/)
+Computing Science student and full-stack developer @ [wiredmountain.ca](https://www.wiredmountain.ca/)
+
+Passions: Web Development (full-stack/ui/ux), Systems Programming, Networking, and making beautiful things with code.
 
 Personal site & portfolio: [jojobinx.com](https://jojobinx.com)
 
