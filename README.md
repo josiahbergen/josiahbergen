@@ -2,7 +2,7 @@ Computing Science student and full-stack developer @ [wiredmountain.ca](https://
 
 Passions: Web Development (full-stack/ui/ux), Systems Programming, Networking, and making beautiful things with code.
 
-Personal site & portfolio: [jojobinx.com](https://jojobinx.com)
+Personal site & portfolio: [josiahbergen.ca](https://josiahbergen.ca)
 
 
 
