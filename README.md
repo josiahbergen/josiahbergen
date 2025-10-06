@@ -1,4 +1,4 @@
-Computing Science student and full-stack developer @ [wiredmountain.ca](https://www.wiredmountain.ca/)
+Computing Science student and full-stack developer @ [loopresource.ca](https://loopresource.ca/)
 
 Passions: Web Development (full-stack/ui/ux), Systems Programming, Networking, and making beautiful things with code.
 
